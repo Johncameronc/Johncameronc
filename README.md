@@ -7,6 +7,9 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OJooohn&repo=Projeto-Site)](https://github.com/OJooohn/Projeto-Site)
 * Link: [Void News](https://ojooohn.github.io/Projeto-Site/)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OJooohn&repo=Map-Editor)](https://github.com/OJooohn/Map-Editor)
+
 ## Tecnologias
 
 <div style="display: inline_block"><br/>
