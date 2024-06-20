@@ -5,10 +5,8 @@
 
 [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ojooohn/)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OJooohn&repo=Projeto-Site)](https://github.com/OJooohn/Projeto-Site)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OJooohn&repo=Projeto-Site)](https://github.com/OJooohn/Projeto-Site) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OJooohn&repo=Map-Editor)](https://github.com/OJooohn/Map-Editor)
 * Link: [Void News](https://ojooohn.github.io/Projeto-Site/)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=OJooohn&repo=Map-Editor)](https://github.com/OJooohn/Map-Editor)
 
 ## Tecnologias
 
