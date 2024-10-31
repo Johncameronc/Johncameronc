@@ -3,7 +3,8 @@
 - Meu objetivo principal é evoluir meus conhecimentos na área, para conquistar o título de profissional.
 - Estou ansioso para aprender e compartilhar conhecimentos com vocês!
 
-[![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ojooohn/)
+> ## Social Medias
+> [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ojooohn/)
 
 [![Map Editor](https://github-readme-stats.vercel.app/api/pin/?username=OJooohn&repo=Projeto-Site&border_radius=20&theme=dark )](https://github.com/OJooohn/Projeto-Site) [![Map Editor](https://github-readme-stats.vercel.app/api/pin/?username=OJooohn&repo=Map-Editor&border_radius=20&theme=dark )](https://github.com/OJooohn/Map-Editor)
 [![MIPS Emulator](https://github-readme-stats.vercel.app/api/pin/?username=OJooohn&repo=Projeto-Simulador-Processador-MIPS&border_radius=20&theme=dark )](https://github.com/OJooohn/Projeto-Simulador-Processador-MIPS) [![C Project](https://github-readme-stats.vercel.app/api/pin/?username=OJooohn&repo=Projeto-Linguagem-C&border_radius=20&theme=dark )](https://github.com/OJooohn/Projeto-Linguagem-C)  
