@@ -1,5 +1,5 @@
 ### Olá! Eu sou John Chappell 👋
-- Tenho 20 anos, e atualmente estou no 3º período no curso de Ciências da Computação na (UP) Universidade Positivo.
+- Tenho 20 anos, e atualmente estou no 4º período no curso de Ciências da Computação na (UP) Universidade Positivo.
 - Meu objetivo principal é evoluir meus conhecimentos na área, para conquistar o título de profissional.
 - Estou ansioso para aprender e compartilhar conhecimentos com vocês!
 
