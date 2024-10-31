@@ -5,14 +5,7 @@
 
 > ## Social Medias
 > [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ojooohn/)
-
-[![Map Editor](https://github-readme-stats.vercel.app/api/pin/?username=OJooohn&repo=Projeto-Site&border_radius=20&theme=dark )](https://github.com/OJooohn/Projeto-Site) [![Map Editor](https://github-readme-stats.vercel.app/api/pin/?username=OJooohn&repo=Map-Editor&border_radius=20&theme=dark )](https://github.com/OJooohn/Map-Editor)
-[![MIPS Emulator](https://github-readme-stats.vercel.app/api/pin/?username=OJooohn&repo=Projeto-Simulador-Processador-MIPS&border_radius=20&theme=dark )](https://github.com/OJooohn/Projeto-Simulador-Processador-MIPS) [![C Project](https://github-readme-stats.vercel.app/api/pin/?username=OJooohn&repo=Projeto-Linguagem-C&border_radius=20&theme=dark )](https://github.com/OJooohn/Projeto-Linguagem-C)  
-[![Chess Java](https://github-readme-stats.vercel.app/api/pin/?username=OJooohn&repo=Chess-Java&border_radius=20&theme=dark )](https://github.com/OJooohn/Chess-Java) [![Chess Java](https://github-readme-stats.vercel.app/api/pin/?username=OJooohn&repo=Web-Application-Python&border_radius=20&theme=dark )](https://github.com/OJooohn/Web-Application-Python)
-
-> ## Projeto Site
-> Link | [Void News](https://ojooohn.github.io/Projeto-Site/)
-
+ 
 > ## Skills
 > ![Static Badge](https://img.shields.io/badge/-HTML-ed390c?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto)
 > ![Static Badge](https://img.shields.io/badge/-CSS-506cfa?style=for-the-badge&logo=css3&logoColor=white&logoSize=auto)
@@ -24,7 +17,19 @@
 > ![Static Badge](https://img.shields.io/badge/-C%23-46105c?style=for-the-badge&logo=dotnet&logoColor=white&logoSize=auto)
 > ![Static Badge](https://img.shields.io/badge/-react-58c4dc?style=for-the-badge&logo=react&logoColor=white&logoSize=auto)
 
+## Web Applications
+[![Map Editor](https://github-readme-stats.vercel.app/api/pin/?username=OJooohn&repo=Projeto-Site&border_radius=20&theme=dark )](https://github.com/OJooohn/Projeto-Site) [![Chess Java](https://github-readme-stats.vercel.app/api/pin/?username=OJooohn&repo=Web-Application-Python&border_radius=20&theme=dark )](https://github.com/OJooohn/Web-Application-Python)
 
+---
 
+## Basic Projects with C
+[![MIPS Emulator](https://github-readme-stats.vercel.app/api/pin/?username=OJooohn&repo=Projeto-Simulador-Processador-MIPS&border_radius=20&theme=dark )](https://github.com/OJooohn/Projeto-Simulador-Processador-MIPS) [![C Project](https://github-readme-stats.vercel.app/api/pin/?username=OJooohn&repo=Projeto-Linguagem-C&border_radius=20&theme=dark )](https://github.com/OJooohn/Projeto-Linguagem-C)  
 
-![OJooohn's GitHub stats](https://github-readme-stats.vercel.app/api?username=OJooohn&show_icons=true&border_radius=20&custom_title=STATUS&theme=dark )
+---
+
+## Java Projects
+[![Chess Java](https://github-readme-stats.vercel.app/api/pin/?username=OJooohn&repo=Chess-Java&border_radius=20&theme=dark )](https://github.com/OJooohn/Chess-Java) [![Map Editor](https://github-readme-stats.vercel.app/api/pin/?username=OJooohn&repo=Map-Editor&border_radius=20&theme=dark )](https://github.com/OJooohn/Map-Editor)
+
+---
+## Status
+![OJooohn's GitHub stats](https://github-readme-stats.vercel.app/api?username=OJooohn&show_icons=true&border_radius=20&hide_title=true&theme=dark )
