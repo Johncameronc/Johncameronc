@@ -3,11 +3,11 @@
     <a href="https://www.linkedin.com/in/john-claude/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </div>
 
-## About
-🎓 I'm a Computer Science student at Universidade Positivo
+## About  
+🎓 I'm a Computer Science student at Universidade Positivo  
 🔍 I'm passionate about AI and cybersecurity.  
-💡 Currently learning cybersecurity and cloud 
- 
+💡 Currently learning cybersecurity and cloud
+
 ## Programming Languages
 <div>
     <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
