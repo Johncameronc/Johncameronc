@@ -1,35 +1,31 @@
-### Olá! Eu sou John Chappell 👋
-- Tenho 20 anos, e atualmente estou no 4º período no curso de Ciências da Computação na (UP) Universidade Positivo.
-- Meu objetivo principal é evoluir meus conhecimentos na área, para conquistar o título de profissional.
-- Estou ansioso para aprender e compartilhar conhecimentos com vocês!
+# 👋 Hi there, I'm John
+<div>
+    <a href="https://www.linkedin.com/in/john-claude/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+</div>
 
-> ## Social Medias
-> [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/?trk=homepage-basic_sign-in-submit) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ojooohn/)
+## About
+🎓 I'm a Computer Science student at Universidade Positivo
+🔍 I'm passionate about AI and cybersecurity.  
+💡 Currently learning cybersecurity and cloud 
  
-> ## Skills
-> ![Static Badge](https://img.shields.io/badge/-HTML-ed390c?style=for-the-badge&logo=html5&logoColor=white&logoSize=auto)
-> ![Static Badge](https://img.shields.io/badge/-CSS-506cfa?style=for-the-badge&logo=css3&logoColor=white&logoSize=auto)
-> ![Static Badge](https://img.shields.io/badge/-JavaScript-e3cc05?style=for-the-badge&logo=javascript&logoColor=black&logoSize=auto)
-> ![Static Badge](https://img.shields.io/badge/-C%20Language-045f7d?style=for-the-badge&logo=C&logoColor=white&logoSize=auto)
-> ![Static Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-> ![Static Badge](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-> ![Static Badge](https://img.shields.io/badge/-Python-234b6c?style=for-the-badge&logo=python&logoColor=white&logoSize=auto)
-> ![Static Badge](https://img.shields.io/badge/-C%23-46105c?style=for-the-badge&logo=dotnet&logoColor=white&logoSize=auto)
-> ![Static Badge](https://img.shields.io/badge/-react-58c4dc?style=for-the-badge&logo=react&logoColor=white&logoSize=auto)
+## Programming Languages
+<div>
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+    <img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+</div>
 
-## Web Applications
-[![Map Editor](https://github-readme-stats.vercel.app/api/pin/?username=OJooohn&repo=Projeto-Site&border_radius=20&theme=dark )](https://github.com/OJooohn/Projeto-Site) [![Chess Java](https://github-readme-stats.vercel.app/api/pin/?username=OJooohn&repo=Web-Application-Python&border_radius=20&theme=dark )](https://github.com/OJooohn/Web-Application-Python)
+## Projects
+| Skill                                         |                                                    Project                                                        |
+|-----------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
+| Web Development                               | <a href="https://github.com/Johncameronc/Web_Application_Python">Web App</a>                                      |
+| C (File Manipulation and Pointer)             | <a href="https://github.com/Johncameronc/Software_de_Gerenciamento_de_Recursos_Humanos">HR Department Software</a>|
+| Object-Oriented Programming (OOP)             | <a href="https://github.com/Johncameronc/Chess_Java">Chess in Java</a>                                            |
+| Computer Architecture                         | <a href="https://github.com/Johncameronc/Simulador_Processador_MIPS">MIPS Compiler Simulator</a>                  |
 
----
-
-## Basic Projects with C
-[![MIPS Emulator](https://github-readme-stats.vercel.app/api/pin/?username=OJooohn&repo=Projeto-Simulador-Processador-MIPS&border_radius=20&theme=dark )](https://github.com/OJooohn/Projeto-Simulador-Processador-MIPS) [![C Project](https://github-readme-stats.vercel.app/api/pin/?username=OJooohn&repo=Projeto-Linguagem-C&border_radius=20&theme=dark )](https://github.com/OJooohn/Projeto-Linguagem-C)  
-
----
-
-## Java Projects
-[![Chess Java](https://github-readme-stats.vercel.app/api/pin/?username=OJooohn&repo=Chess-Java&border_radius=20&theme=dark )](https://github.com/OJooohn/Chess-Java) [![Map Editor](https://github-readme-stats.vercel.app/api/pin/?username=OJooohn&repo=Map-Editor&border_radius=20&theme=dark )](https://github.com/OJooohn/Map-Editor)
-
----
-## Status
-![OJooohn's GitHub stats](https://github-readme-stats.vercel.app/api?username=OJooohn&show_icons=true&border_radius=20&hide_title=true&theme=dark )
+## Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Johncameron&show_icons=true&theme=transparent)
