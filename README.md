@@ -26,6 +26,7 @@
 | C (File Manipulation and Pointer)             | <a href="https://github.com/Johncameronc/Software_de_Gerenciamento_de_Recursos_Humanos">HR Department Software</a>|
 | Object-Oriented Programming (OOP)             | <a href="https://github.com/Johncameronc/Chess_Java">Chess in Java</a>                                            |
 | Computer Architecture                         | <a href="https://github.com/Johncameronc/Simulador_Processador_MIPS">MIPS Compiler Simulator</a>                  |
+| Data Analysis and Machine Learning            | <a href="https://github.com/Johncameronc/Obesity_ML_Model">ML Model of Obesity DataSet</a>                        |
 
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Johncameron&show_icons=true&theme=transparent)
